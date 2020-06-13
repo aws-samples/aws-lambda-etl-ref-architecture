@@ -1,0 +1,5 @@
+aws-lambda-logging
+aws-xray-sdk
+boto3
+pandas
+numpy
