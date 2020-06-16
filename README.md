@@ -154,4 +154,4 @@ Please refer to the [well architected review](well-architected.md) document for 
 
 ## LICENSE
 
-This reference architecture sample is licensed under Apache 2.0.
+This reference architecture sample is licensed under MIT-0.
